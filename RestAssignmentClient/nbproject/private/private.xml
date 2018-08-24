@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/RestAssignmentClient/web/paymentConfirm.jsp</file>
+            <file>file:/D:/RestAssignmentClient/web/sendHistory.jsp</file>
+            <file>file:/D:/RestAssignmentClient/web/payment.jsp</file>
+            <file>file:/D:/RestAssignmentClient/src/java/controller/ReceiveHistoryServlet.java</file>
+            <file>file:/D:/RestAssignmentClient/src/java/controller/NewPaymentServlet.java</file>
+            <file>file:/D:/RestAssignmentClient/web/index.jsp</file>
+            <file>file:/D:/RestAssignmentClient/web/loginFail.jsp</file>
+            <file>file:/D:/RestAssignmentClient/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/RestAssignmentClient/web/receiveHistory.jsp</file>
+            <file>file:/D:/RestAssignmentClient/web/menu.jsp</file>
+            <file>file:/D:/RestAssignmentClient/src/java/controller/SendHistoryServlet.java</file>
+            <file>file:/D:/RestAssignmentClient/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
